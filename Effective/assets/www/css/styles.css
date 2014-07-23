@@ -1,0 +1,198 @@
+#map-canvas{  background-size:100%;height:150px; }
+#map-canvas1{  background-size:100%;height:400px; }
+
+#map_wrapper {
+    height: 400px;
+}
+
+#map_canvas2 {
+    width: 100%;
+    height: 100%;
+}
+
+
+.headercl{
+    background: rgb(250, 250, 250) !important;
+    border: none !important;
+}
+.date_rht{
+    width: 20%; float: right; background: #81DAF5; margin-right: 5%;text-align: center; color: #fff;
+}
+
+.data_left{
+    width: 70%; float: left;
+}
+
+		.nav-glyphish-example .ui-btn .ui-btn-inner { padding-top: 40px !important; }
+		.nav-glyphish-example .ui-btn .ui-icon { width: 30px!important; height: 30px!important; margin-left: -15px !important; box-shadow: none!important; -moz-box-shadow: none!important; -webkit-box-shadow: none!important; -webkit-border-radius: 0 !important; border-radius: 0 !important; }
+		.setting .ui-icon { background:  url(glyphish-icons/19-gear.png) 50% 50% no-repeat; background-size: 24px 22px; }
+		.group .ui-icon { background:  url(glyphish-icons/112-group.png) 50% 50% no-repeat; background-size: 24px 16px;  }
+		.home .ui-icon { background:  url(glyphish-icons/53-house.png) 50% 50% no-repeat;  background-size: 24px 26px; }
+		.plus .ui-icon { background:  url(glyphish-icons/10-medical.png) 50% 50% no-repeat;  background-size: 22px 27px; }
+		.menu .ui-icon { background:  url(glyphish-icons/line.png) 50% 50% no-repeat;  background-size: 20px 24px; }
+		
+	
+.nav-glyphish-example1{
+    background: rgb(250, 250, 250) !important;
+}
+.ui-page .ui-content .ui-btn.publishbutton .ui-btn-inner{
+    background: #093;
+    color: #FFFFFF;
+    border: 1px solid #093;
+    border-radius: 0px;
+    height: 28px;
+    font-size: 25px;
+    font-family: mon
+}
+.listimg {
+    height: 34px;
+    width: 34px;
+    position: fixed;
+    top: 21%;
+    left: 96%;
+}
+.starting{
+    border: 3px solid #ccc;
+    border-radius: 20px;
+    width:30%;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    font-size: 24px;
+}
+.starting{
+    border: 3px solid #ccc;
+    border-radius: 20px;
+    width:30%;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    font-size: 24px;
+}
+.bar_graph1{
+ border: 2px solid #ccc;
+ padding: 4px;
+ margin-bottom:7px;
+/* background:red;*/
+}
+.quality_main2 {float:left; width:90%;}
+
+.venuadds{
+  border:3px solid #ccc !important;
+  border-radius:20px !important;
+  margin:auto;
+  text-align:ceter;
+ 
+  font-size:16px;
+  margin-bottom: 8px !important;
+  margin-left:3px!important;
+    margin-right:3px!important;
+
+}
+
+.tx1{
+    color: #ccc;    
+}
+.tx2{
+    color: #000;
+}
+.daily{
+    border: 3px solid #ccc;
+    border-radius: 20px;
+    width:30%;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    font-size: 24px;
+}
+.ends{
+    border: 3px solid #ccc;
+    border-radius: 20px;
+    width:30%;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+    font-size: 24px;
+}
+.name_task{
+    border: 3px solid #ccc;
+    border-radius: 20px;
+    width:98%;
+    margin: auto;
+    text-align: center;
+    padding: 15px;
+    font-size: 24px;
+}
+.tx3{
+    text-align: justify;
+}
+.oktx{
+    float: left;
+    width: 48%;
+    font-size: 24px;
+}
+.excellenttx{
+    font-size: 24px;
+    float: right;
+    margin-right: 2%;
+}
+.sliderrange{
+    margin-top: 7%;
+    width: 96%;
+}
+.comment_box{
+    
+}
+.comment{
+    
+}
+.cong_box{
+    border: 3px solid #ccc;
+    border-radius: 20px;
+    width:90%;
+    margin: auto;
+    text-align: center;
+    padding: 10% 5% 10% 5%;
+    font-size: 28px;
+}
+
+.socialicon_left{
+width:50%; float:left; margin-bottom:5%;
+}
+.socialicon_right{
+width:50%; float:right; margin-bottom:5%;
+}
+.socialicon_btm_left{
+width:50%; float:left;
+}
+.socialicon_btm_right{
+width:50%; float:left;
+}
+
+.addlist p {
+    font-size: 15px;
+}
+
+.headermain { float:left; width:100%; padding-top:2%;}
+.leftarrowimg { float:left;}
+.effect_logo_img { text-align:center;}
+.rightarrowimg { float:right; margin:-32px 0 0 0;}
+#datepage div.ui-input-text { padding: 0 !important; }
+
+
+.sec_fnd_li{
+background: rgb(216, 210, 208) !important;
+}
+
+.quality_main {float:left; width:100%;}
+.quality_left {float: left; width: 30%; padding-left: 3%; line-height: 20px;}
+.quality_right {float: right; width:65%; line-height: 20px; padding-bottom:5%;}
+
+.quality_main1 {float:left; width:100%;}
+.quality_left1{float: left; width: 1%; padding-left: 2%; line-height: 20px;}
+.quality_right1 {float: right; width:96%; line-height: 20px; padding-bottom:3%;}
+
+#popupdiv{
+position:absolute; right:28px; top:90px; width:250px; z-index:99999;
+background: #393939;
+}
